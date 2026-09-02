@@ -1,0 +1,4 @@
+{"input": 0, "expect": 0, "raised": false, "task": "eliuds-eggs", "lang": "javascript"}
+{"input": 16, "expect": 1, "raised": false, "task": "eliuds-eggs", "lang": "javascript"}
+{"input": 89, "expect": 4, "raised": false, "task": "eliuds-eggs", "lang": "javascript"}
+{"input": 2000000000, "expect": 13, "raised": false, "task": "eliuds-eggs", "lang": "javascript"}
